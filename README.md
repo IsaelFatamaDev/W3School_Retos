@@ -2,4 +2,3 @@
 ### Retos Isael Fatama.
 
 Plataforma W3School
-"#W3School_Retos" 
